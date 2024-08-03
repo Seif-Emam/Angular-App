@@ -1,0 +1,39 @@
+
+#Home_Sec{
+    padding: 150px;
+    background-color: #1ABC9C;
+    color: white;
+    
+    font-family: Arial, sans-serif;} 
+
+.img-ava{
+width:  250px;
+margin-bottom: 20px;
+}
+
+.home{
+    padding: 100px;
+}
+.line{
+    width: 100px;
+    height: 4px;
+    background-color: white;
+    display: inline-block;
+    margin: 20px 10px;
+}
+
+.icon-star{
+
+    color: white;
+    font-size: 24px;
+}
+
+h2{
+
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+    ;
+
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+}

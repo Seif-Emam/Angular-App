@@ -1,0 +1,47 @@
+.navbar{
+
+    background-color: #2C3E50;
+    padding: 10px;
+}
+
+.navbar a{
+
+    color: white;
+    margin-right: 30px;
+    margin-top: 5px;
+    width: fit-content;
+
+}
+
+
+.navbar .navbar-brand{
+
+
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+    ;
+
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 700;
+}
+
+.navbar .nav-link{
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+    ;
+
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+
+
+}
+
+.ActiveLink{
+
+ background-color: #1ABC9C;
+ text-align: center;
+ transition: all 0.3s;
+ width: 40%;
+  
+}
+

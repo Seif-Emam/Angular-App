@@ -1,0 +1,40 @@
+
+
+.footer{
+    padding: 70px 0px 70px 0px;
+   background-color: #2C3E50;
+}
+.footer h3{
+
+   
+   font-size: 28px;
+   line-height: 34px;
+   font-weight: 500;
+
+
+
+}
+
+.footer p{
+
+   
+   font-size: 16px;
+   line-height: 24px;
+   font-weight: 400;
+
+
+
+}
+.icon-div i{
+color: white;
+padding: 10px;
+margin: 4px;
+border: 1px white solid;
+border-radius: 50%;     
+
+}
+
+.footer-end{
+    padding: 20px;
+   background-color: #1d2a36;
+}

@@ -1,0 +1,65 @@
+
+#Portfolio_Sec {
+    padding: 150px;
+    background-color:white;
+       color: #2C3E50 !important;
+
+
+    font-family: Arial, sans-serif;
+}
+
+
+    .line {
+        width: 100px;
+        height: 2px;
+        background-color:#2C3E50 !important;
+        display: inline-block;
+        margin: 20px 10px;
+      }
+
+
+.icon-star{
+    color: #2C3E50;
+    font-size: 24px;
+}
+
+h2{
+
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+    ;
+
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+}
+
+.imm-port{
+    width: 100%;
+
+
+}
+
+.overlay-1{
+    background-color: #2DB292;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+    
+}
+
+
+:hover.overlay-1{
+    opacity: 1;
+}
+.fa-plus{
+    color: white;
+    font-size: 96px;
+}
+
+.overflow-hidden {
+    overflow: hidden !important;
+}

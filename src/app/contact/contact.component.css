@@ -1,0 +1,71 @@
+#Contact_Sec {
+    padding: 150px;
+    background-color:white;
+       color: #2C3E50 !important;
+
+
+    font-family: Arial, sans-serif;
+}
+
+
+    .line {
+        width: 100px;
+        height: 2px;
+        background-color:#2C3E50 !important;
+        display: inline-block;
+        margin: 20px 10px;
+      }
+
+
+.icon-star{
+    color: #2C3E50;
+    font-size: 24px;
+}
+
+h2{
+
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+    ;
+
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+}
+
+
+
+.form-group {
+    position: relative;
+    margin-bottom: 1.5rem;
+  }
+  
+  label {
+    color: #1ABC9C;
+    position: absolute;
+    top: 50%;
+    left: 0.75rem;
+    margin-bottom: 7px;
+
+    transform: translateY(-50%);
+    transition: 0.3s ease;
+    pointer-events: none;
+  }
+  
+  .form-control {
+    box-shadow: none !important;
+  }
+  
+  .form-control:focus + label,
+  .form-control:not(:placeholder-shown) + label {
+    top: -0.75rem;
+    left: 0.75rem;
+    background: white;
+    padding: 0 0.25rem;
+    font-size: 0.85rem;
+    color: #1ABC9C;
+  }
+
+  .btn{
+    background-color: #1ABC9C !important;
+    color: white;
+  }
